@@ -1,0 +1,1 @@
+Solutions to most exercises of K&R, 2nd edition
